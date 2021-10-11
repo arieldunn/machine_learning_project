@@ -11,6 +11,11 @@ We can break up the visualizations.
 2 based on County
 2 based on Baltimore City on its own
 
+Housing Efficiency.
+based on dataset. 2020 housing inventory count
+
+
+
 
 
 
