@@ -1,17 +1,17 @@
 County_ID,County_name,Civilian_labor_force,Employed,Unemployed,Unemployment_rate,Median_Household_Income,Med_HH_Income_Percent_of_State_Total
-MD-500,Allegany County,"32,253","30,618","1,635",5.1,"48,170",55.6
-MD-501,Baltimore city,"287,760","273,351","14,409",5,"49,780",57.5
-MD-502,Harford County,"143,572","138,927","4,645",3.2,"91,492",105.6
-MD-503,Anne Arundel County,"321,069","311,556","9,513",3,"100,916",116.5
-MD-504,Howard County,"191,529","186,427","5,102",2.7,"121,329",140
-MD-505,Baltimore County,"459,091","442,597","16,494",3.6,"76,972",88.8
-MD-506,Carroll County,"96,933","94,187","2,746",2.8,"101,810",117.5
-MD-507,Cecil County,"53,891","51,812","2,079",3.9,"75,307",86.9
-MD-508,"Charles, Calvert, St.Mary's Counties","65,682","63,492","2,190",3,"100,896",116
-MD-509,Frederick County,"137,920","133,683","4,237",3.1,"102,951",118.8
-MD-510,Garrett County,"15,981","15,301",680,4.3,"59,253",68.4
-MD-511,Mid-Shore Regional Counties,"18,469","17,815",654,4,"70,306",81
-MD-512,Washington County,"74,861","72,015","2,846",3.8,"59,785",69
-MD-513,"Wicomico, Somerset, Worcester Counties","28,749","27,162","1,588",6,"52,968",61
-MD-600,Prince George's County,"513,748","494,934","18,814",3.7,"85,357",98.5
-MD-601,Montgomery County,"565,463","549,296","16,167",2.9,"110,012",127
+MD-500,Allegany County,32253,30618,1635,5,48170,56
+MD-501,Baltimore city,287760,273351,14409,5,49780,58
+MD-502,Harford County,143572,138927,4645,3,91492,106
+MD-503,Anne Arundel County,321069,311556,9513,3,100916,117
+MD-504,Howard County,191529,186427,5102,3,121329,140
+MD-505,Baltimore County,459091,442597,16494,4,76972,89
+MD-506,Carroll County,96933,94187,2746,3,101810,118
+MD-507,Cecil County,53891,51812,2079,4,75307,87
+MD-508,"Charles, Calvert, St.Mary Counties",65682,63492,2190,3,100896,116
+MD-509,Frederick County,137920,133683,4237,3,102951,119
+MD-510,Garrett County,15981,15301,680,4,59253,68
+MD-511,Mid-Shore Regional Counties,18469,17815,654,4,70306,81
+MD-512,Washington County,74861,72015,2846,4,59785,69
+MD-513,"Wicomico, Somerset, Worcester Counties",28749,27162,1588,6,52968,61
+MD-600,Prince Georges County,513748,494934,18814,4,85357,99
+MD-601,Montgomery County,565463,549296,16167,3,110012,127
