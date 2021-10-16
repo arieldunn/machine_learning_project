@@ -1,4 +1,4 @@
-County_ID,County_name,Civilian_labor_force,Employed,Unemployed,Unemployment_rate,Median_Household_Income,Med_HH_Income_Percent_of_State_Total
+County_ID,County_name,Civilian_labor_force,Unemployed,Employed,Unemployment_rate,Median_Household_Income,Med_HH_Income_Percent_of_State_Total
 MD-500,Allegany County,32253,30618,1635,5,48170,56
 MD-501,Baltimore city,287760,273351,14409,5,49780,58
 MD-502,Harford County,143572,138927,4645,3,91492,106
